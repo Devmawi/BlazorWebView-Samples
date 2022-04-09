@@ -38,7 +38,7 @@ namespace BlazorRtsPlayer.BlazorApp.Pages
                 if (disposing)
                 {
                     // TODO: dispose managed state (managed objects)
-                    CancellationTokenSource.Cancel();
+                    
                 }
 
                 // TODO: free unmanaged resources (unmanaged objects) and override finalizer
