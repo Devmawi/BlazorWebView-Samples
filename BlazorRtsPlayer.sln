@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32317.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorRtsPlayer", "BlazorRtsPlayer\BlazorRtsPlayer.csproj", "{6D3A50EB-24AB-4F7A-8DCF-5A52BA0B8AD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorRtsPlayer.BlazorApp", "BlazorRtsPlayer.BlazorApp\BlazorRtsPlayer.BlazorApp.csproj", "{8FBBF2DD-179E-4B6F-9B9B-B4B1B67791D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D3A50EB-24AB-4F7A-8DCF-5A52BA0B8AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D3A50EB-24AB-4F7A-8DCF-5A52BA0B8AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D3A50EB-24AB-4F7A-8DCF-5A52BA0B8AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D3A50EB-24AB-4F7A-8DCF-5A52BA0B8AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FBBF2DD-179E-4B6F-9B9B-B4B1B67791D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FBBF2DD-179E-4B6F-9B9B-B4B1B67791D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FBBF2DD-179E-4B6F-9B9B-B4B1B67791D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FBBF2DD-179E-4B6F-9B9B-B4B1B67791D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3453242-EED8-4CD4-9408-18238446173B}
+	EndGlobalSection
+EndGlobal
